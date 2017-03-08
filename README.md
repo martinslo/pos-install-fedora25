@@ -1,2 +1,2 @@
 # pos-install-fedora25
-Pós-Instalação do Fedora 25 Workstation
+Script para pós-Instalação do Fedora 25 Workstation
